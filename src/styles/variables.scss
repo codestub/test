@@ -1,0 +1,168 @@
+//////////
+// Text //
+//////////
+
+$size0: 12px;
+$size1: 14px;
+$size2: 16px;
+$size3: 18px;
+$size4: 20px;
+$size5: 24px;
+$size6: 30px;
+$size7: 36px;
+$size8: 48px;
+$size9: 72px;
+
+/////////////
+// Shadows //
+/////////////
+
+$shadow0: 0 1px 3px hsla(0, 0%, 0%, 0.12), 0 1px 2px hsla(0, 0%, 0%, 0.24);
+$shadow1: 0 3px 6px hsla(0, 0%, 0%, 0.15), 0 2px 4px hsla(0, 0%, 0%, 0.12);
+$shadow2: 0 10px 20px hsla(0, 0%, 0%, 0.15), 0 3px 6px hsla(0, 0%, 0%, 0.1);
+$shadow3: 0 15px 25px hsla(0, 0%, 0%, 0.15), 0 5px 10px hsla(0, 0%, 0%, 0.5);
+$shadow4: 0 20px 40px hsla(0, 0%, 0%, 0.2);
+
+/////////////
+// Colours //
+/////////////
+
+$white: #ffffff;
+
+$neutral0: #F0F4F8;
+$neutral1: #D9E2EC;
+$neutral2: #BCCCDC;
+$neutral3: #9FB3C8;
+$neutral4: #829AB1;
+$neutral5: #627D98;
+$neutral6: #486581;
+$neutral7: #334E68;
+$neutral8: #243B53;
+$neutral9: #102A43;
+
+$primary0: #E0FCFF;
+$primary1: #BEF8FD;
+$primary2: #87EAF2;
+$primary3: #54D1DB;
+$primary4: #38BEC9;
+$primary5: #2CB1BC;
+$primary6: #14919B;
+$primary7: #0E7C86;
+$primary8: #0A6C74;
+$primary9: #044E54;
+
+//$primary0: #E0FCFF;
+//$primary1: #BEF8FD;
+//$primary2: #87EAF2;
+//$primary3: #54D1DB;
+//$primary4: #38BEC9;
+//$primary5: #2CB1BC;
+//$primary6: #14919B;
+//$primary7: #0E7C86;
+//$primary8: #0A6C74;
+//$primary9: #044E54;
+
+$primary0: #ecebf8;
+$primary1: #d7d5f1;
+$primary2: #bfbce9;
+$primary3: #a29de0;
+$primary4: #7c75d3;
+$primary5: #362cbc;
+$primary6: #3027a8;
+$primary7: #292292;
+$primary8: #221b76;
+$primary9: #171250;
+
+$secondary0: #ecebf8;
+$secondary1: #d7d5f1;
+$secondary2: #bfbce9;
+$secondary3: #a29de0;
+$secondary4: #7c75d3;
+$secondary5: #362cbc;
+$secondary6: #3027a8;
+$secondary7: #292292;
+$secondary8: #221b76;
+$secondary9: #171250;
+
+$info0: #e8eff7;
+$info1: #cfddef;
+$info2: #b2c9e6;
+$info3: #91b1dc;
+$info4: #6794cf;
+$info5: #2c6abc;
+$info6: #275fa9;
+$info7: #225393;
+$info8: #1c4478;
+$info9: #132f54;
+
+$danger0: #f8ebea;
+$danger1: #f1d5d3;
+$danger2: #e8bcb8;
+$danger3: #de9d99;
+$danger4: #d1766f;
+$danger5: #bc362c;
+$danger6: #a93027;
+$danger7: #932a22;
+$danger8: #79221c;
+$danger9: #551814;
+
+$warning0: #f7efe5;
+$warning1: #eedeca;
+$warning2: #e4ccac;
+$warning3: #d9b789;
+$warning4: #cc9d60;
+$warning5: #bc7e2c;
+$warning6: #a97127;
+$warning7: #946322;
+$warning8: #7a521c;
+$warning9: #573a14;
+
+$success0: #e6f7e7;
+$success1: #cbeece;
+$success2: #ade5b1;
+$success3: #8bda90;
+$success4: #61cd69;
+$success5: #2cbc36;
+$success6: #27a930;
+$success7: #22952a;
+$success8: #1c7b23;
+$success9: #145819;
+
+/////////////
+// Spacing //
+/////////////
+
+$space0: 4px;
+$space1: 8px; // 2
+$space2: 12px; // 1.5
+$space3: 16px; // 1.333
+$space4: 24px; // 1.5
+$space5: 32px; // 1.333
+$space6: 48px; // 1.5
+$space7: 64px; // 1.333
+$space8: 96px; // 1.5
+$space9: 128px; // 1.333
+$space10: 192px;
+$space11: 256px;
+$space12: 384px; // 1.5
+$space13: 512px; // 1.33
+$space14: 640px; // 1.25
+$space15: 768px; // 1.2
+$space16: 960px; // 1.25
+
+/////////////////
+// Line height //
+/////////////////
+
+$height0: 1;
+$height1: 1.25;
+$height2: 1.5;
+$height3: 2;
+$height4: 2.5;
+
+/////////////////
+// Font weight //
+/////////////////
+
+$regular: 400;
+$bold: 700;

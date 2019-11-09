@@ -9,10 +9,16 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "lodash": "^4.17.15",
+    "minireset.css": "^0.0.6",
+    "nprogress": "^0.2.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
+    "vue-types": "^1.6.1",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

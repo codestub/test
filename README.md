@@ -1,4 +1,3 @@
-# hostelworld
 
 ## Project setup
 ```
